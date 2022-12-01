@@ -1,0 +1,38 @@
+% Fatos
+come(urso, peixe).
+come(peixe, peixinho).
+come(peixinho, alga).
+come(guaxinim, peixe).
+come(urso, guaxinim).
+come(urso, raposa).
+come(raposa, coelho).
+come(coelho, grama).
+come(urso, veado).
+come(veado, grama).
+come(lince, veado).
+animal(urso).
+animal(peixe).
+animal(peixinho).
+animal(guaxinim).
+animal(raposa).
+animal(coelho).
+animal(veado).
+animal(lince).
+planta(grama).
+planta(alga).
+predador(urso).
+predador(peixe).
+predador(guaxinim).
+predador(urso).
+predador(urso).
+predador(raposa).
+predador(urso).
+predador(lince).
+presa(peixe).
+presa(peixinho).
+presa(peixe).
+presa(guaxinim).
+presa(raposa).
+presa(coelho).
+presa(veado).
+presa(veado).
